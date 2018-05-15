@@ -1,6 +1,6 @@
 <?php
 
-
+echo "Hello Wolrd! Let's make bots together";
 
 
 $botToken = "585408099:AAGsxNfxTfcHE_KfDVyNrJ_T7_52i7R1cdk";
