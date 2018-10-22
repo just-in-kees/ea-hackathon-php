@@ -2,8 +2,8 @@
 
 echo "Hello Wolrd! Let's make bots together";
 
-
-$botToken = "585408099:AAGsxNfxTfcHE_KfDVyNrJ_T7_52i7R1cdk";
+//Enjoy :P
+$botToken = "make your own";
 $website = "https://api.telegram.org/bot".$botToken;
 
 //input is used when webhook is enabled!
